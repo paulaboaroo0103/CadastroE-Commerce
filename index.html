@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Cadastro</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='cadastro.css'>
+    <script src='cadastro.js'></script>
+</head>
+<body id="body">
+    <h2 id="entreoucadastre-se" >ENTRE OU CADASTRE-SE</h2>
+    <form>
+        <div class="container col-4" id="formulario">
+        <label for="email">E-mail</label>
+        <input id="email" name="email" placeholder="Adicione aqui">
+        <br>
+        <label for="nome">Nome completo</label>
+        <input id="nome" name="nome" placeholder="Adicione aqui">
+        <br>
+        <label for="numero">Número de telefone</label>
+        <input id="numero" name="numero" placeholder="Adicione aqui">
+        <br>
+        <label for="nascimento">Data de nascimento </label>
+        <input id="nascimento" name="nascimento" placeholder="Adicione aqui">
+        <br>
+        <h2 id="complemento">COMPLEMENTO</h2>
+        <label for="cpf">CPF</label>
+        <input id="cpf" name="cpf" placeholder="000.000.000-00">
+        <br>
+        <label for="cep">CEP</label>
+        <input id="cep" name="cep" placeholder="000-000000">
+        <br>
+        <label for="endereco">Endereço e número da casa</label>
+        <input id="endereco" placeholder="000">
+        <label for="casa">Complemento</label>
+        <input id="casa" name="casa" placeholder="Ex:casa,apartamento,condomínio">
+        <br>
+        <label for="cidade">Adicione a sua cidade</label>
+        <input id="cidade" name="cidade" placeholder="Adicione aqui">
+        <br>
+        <label for="estado">Estado: </label>
+
+       <select name="estado">
+
+        <option value="ac">Acre</option>
+
+        <option value="al">Alagoas</option>
+
+        <option value="am">Amazonas</option>
+
+        <option value="ap">Amapá</option>
+
+        <option value="ba">Bahia</option>
+
+        <option value="ce">Ceará</option>
+
+        <option value="df">Distrito Federal</option>
+
+        <option value="es">Espírito Santo</option>
+
+        <option value="go">Goiás</option>
+
+        <option value="ma">Maranhão</option>
+
+        <option value="mt">Mato Grosso</option>
+
+        <option value="ms">Mato Grosso do Sul</option>
+
+        <option value="mg">Minas Gerais</option>
+
+        <option value="pa">Pará</option>
+
+        <option value="pb">Paraíba</option>
+
+        <option value="pr">Paraná</option>
+
+        <option value="pe">Pernambuco</option>
+
+        <option value="pi">Piauí</option>
+
+        <option value="rj">Rio de Janeiro</option>
+
+        <option value="rn">Rio Grande do Norte</option>
+
+        <option value="ro">Rondônia</option>
+
+        <option value="rs">Rio Grande do Sul</option>
+
+        <option value="rr">Roraima</option>
+
+        <option value="sc">Santa Catarina</option>
+
+   <option value="se">Sergipe</option>
+   <option value="sp">São Paulo</option>
+ <option value="to">Tocantins</option>
+
+       </select>
+        <br>
+        <label for="referencia">Adicione algum ponto de referência </label>
+        <input id="referencia" name="referencia" placeholder="EX:Planet">
+      </form>
+      <br>
+      <button onclick="Verificar()">ENVIAR CADASTRO</button>
+    </body>
+</html>
