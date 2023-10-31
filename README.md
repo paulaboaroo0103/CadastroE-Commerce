@@ -1,7 +1,5 @@
 # CadastroE-Commerce
 
-# README - Projeto de Formulário de Cadastro de Endereço para Lojas Virtuais
-
 ## Descrição do Projeto
 Esse projeto consiste na criação de um formulário de cadastro de endereço para usuários de lojas virtuais. O objetivo principal é realizar a verificação do CEP informado pelo usuário, garantindo a precisão das informações e evitando erros de digitação.
 
@@ -39,5 +37,3 @@ Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga
 - [Nome do Autor 1]
 - [Nome do Autor 2]
 
-## Licença
-Este projeto está licenciado sob a [Licença XYZ](https://opensource.org/licenses/XYZ).
