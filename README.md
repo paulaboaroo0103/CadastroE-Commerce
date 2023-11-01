@@ -1,7 +1,7 @@
 # CadastroE-Commerce
 
 # Projeto - CadastroE-Commerce
-![imagem](img.1.png)
+![imagem](img/1.png)
 
 ## Descrição do Projeto
 Esse projeto consiste na criação de um formulário de cadastro de endereço para usuários de lojas virtuais. O objetivo principal é realizar a verificação do CEP informado pelo usuário, garantindo a precisão das informações e evitando erros de digitação.
