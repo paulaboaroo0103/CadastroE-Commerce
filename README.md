@@ -25,15 +25,10 @@ Esse projeto consiste na criação de um formulário de cadastro de endereço pa
 8. Caso o CEP seja inválido, corrija as informações digitadas.
 9. Finalize o cadastro.
 
-## Contribuições
-Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga as etapas abaixo:
-1. Faça um fork do repositório.
-2. Crie uma branch com a sua feature ou correção de bug: `git checkout -b minha-feature`.
-3. Faça as alterações desejadas e faça commit das mesmas: `git commit -m 'Minha nova feature'`.
-4. Envie as alterações para o repositório remoto: `git push origin minha-feature`.
-5. Envie um pull request para que suas alterações sejam revisadas e incorporadas ao projeto.
-
 ## Autores
-- [Nome do Autor 1]
-- [Nome do Autor 2]
+| [<img loading="lazy" src="https://user-images.githubusercontent.com/127847275/272244520-740a7042-aefd-42c6-ad38-536121527e4b.png" width=95><br><sub>Paula Boaro</sub>](https://github.com/paulaboaroo0103) 
+| :---: |
 
+### Colaboradores:
+|  [<img loading="lazy" src="https://user-images.githubusercontent.com/86802310/268408790-48baaee3-ce37-4ad6-9348-ecb738990343.png" width=95><br><sub>Leonardo Rocha </sub>](https://github.com/leonardorochamarista)
+| :---: |
